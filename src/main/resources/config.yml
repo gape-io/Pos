@@ -1,0 +1,13 @@
+Syntax:
+  playerNameComponent:
+    playerName: "<%player_name%>"
+    toolTip: |-
+      &6Line1 playerName
+      &eLine2 playerName
+  messageComponent:
+    message: " &l[%player_x%,%player_y%,%player_z%]"
+    toolTip: |-
+      &cLine1 message
+      &2Line2 message
+  tipComponent:
+    tip: " &7(Click para seguir)"

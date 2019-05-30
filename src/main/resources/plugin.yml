@@ -1,0 +1,8 @@
+name: Pos
+version: ${project.version}
+main: me.joshmiquel.pos.Main
+api-version: 1.13
+depend: [PlaceholderAPI]
+commands:
+  pos:
+    description: "Reload config.yml of plugin"
